@@ -58,3 +58,18 @@ The unpack:
     tar -xjf Calculations.tar.bz2
 
 
+===========================
+
+The folder `conv_scripts` contains a bit more streamlined codes - so that one could simply run a master script 
+to produce all the data and then visualize them within the given Jupyter notebook. The results stored in the 
+included notebook are for alternative guiding trajectories. These are very massive results, so are not included.
+
+
+
+Folders `NAMD-model4-method4-icond0` and `NAMD-model4-method4-icond2` contain the non-NBRA FSSH calculations with
+multiple trajectories - just in case some of them aren't included in the previous submission
+
+
+
+
+
